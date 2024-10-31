@@ -1,5 +1,5 @@
-site_name: Server running
-site_url: http://127.0.0.1:8000
+site_name: Summaries 4G
+site_url: https://summaries-4g.netlify.app
 theme:
   features:
     - navigation.instant
