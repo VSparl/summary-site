@@ -1,0 +1,28 @@
+site_name: Server running
+site_url: http://127.0.0.1:8000
+theme:
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.top
+    - navigation.path
+  name: material
+  palette:
+    scheme: slate
+    primary: custom
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Math: bma/index.md
+  - Applied Math: sam/index.md
+  - Economics & Law: wr/index.md
+  - Informatics: in/index.md
+  - Biology: bi/index.md
+  - Geography: gg/index.md
+  - Physics: py/index.md
+  - Chemistry: ci/index.md
+  - History: gs/index.md
