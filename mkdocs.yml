@@ -1,23 +1,32 @@
 site_name: Summaries 4G
 site_url: https://summaries-4g.netlify.app
-theme:
-  features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.tabs
-    - navigation.top
-    - navigation.path
-  name: material
-  palette:
-    scheme: slate
-    primary: custom
+
+# Include extra CSS stylesheet
 extra_css:
   - stylesheets/extra.css
 
+# Configure the color scheme and features
+theme:
+  name: material # Use the Material for MkDocs theme
+  palette:
+    scheme: slate # Dark mode
+    primary: custom # Use primary color defined in extra.css
+
+  features:
+    - navigation.instant # Quick navigation
+    - navigation.instant.progress # Show page load progress
+    - navigation.tabs # Show tabs in title bar
+    - navigation.top # Show back to top button
+    - navigation.path # Show path breadcrumbs at top of file
+
+# Website navigation structure
 nav:
   - Home: index.md
   - About: about.md
-  - Math: bma/index.md
+  - Math:
+      - Welcome: bma/index.md
+      - "1 - Trigonometry and Logarithms": bma/1/summary.md
+      - "60 - Advanced quantum mechanics interfering with sub-atomic particles on the andromeda galaxy": bma/60/summary.md
   - Applied Math: sam/index.md
   - Economics & Law: wr/index.md
   - Informatics: in/index.md
