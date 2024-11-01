@@ -5,6 +5,23 @@ site_url: https://summaries-4g.netlify.app
 extra_css:
   - stylesheets/extra.css
 
+# Include extra JS modules for added functionality
+extra_javascript:
+  - javascripts/mathjax.js # Enable MathJax for LaTex
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # Required for MathJax
+
+# Configure Markdown extensions for added functionality
+markdown_extensions:
+  - tables # Add support for tables
+  - admonition # Pretty boxes that show important information
+  - pymdownx.details # Make admonitions collapsible
+  - pymdownx.superfences # Enable nesting of elements (like code blocks in quotes)
+  - pymdownx.arithmatex: # Required for MathJax
+      generic: true
+  - pymdownx.caret # Enable ^superscript^
+  - pymdownx.tilde # Enable ~subscript~
+  - pymdownx.mark # Enable ==highlighting==, ~~strikethrough~~ and ^^underline^^
+
 # Configure the color scheme and features
 theme:
   name: material # Use the Material for MkDocs theme
@@ -19,32 +36,28 @@ theme:
     - navigation.top # Show back to top button
     - navigation.path # Show path breadcrumbs at top of file
 
-markdown_extensions:
-  - admonition # Pretty boxes that show important information
-  - pymdownx.details # Make admonitions collapsible
-  - pymdownx.superfences # Enable nesting of elements (like code blocks in quotes)
-
 # Website navigation structure
 nav:
   - Home: index.md
   - About: about.md
+  - Biology:
+      - Welcome: bi/index.md
+  - Chemistry:
+      - Welcome: ci/index.md
+  - Economics & Law:
+      - Welcome: wr/index.md
+      - "1 - Introduction": wr/1/summary.md
+  - Geography:
+      - Welcome: gg/index.md
+      - "1 - Amerika": gg/1/summary.md
+  - History:
+      - Welcome: gs/index.md
+  - Informatics:
+      - Welcome: in/index.md
   - Math:
       - Welcome: bma/index.md
       - "1 - Trigonometry and Logarithms": bma/1/summary.md
-      - "60 - Advanced quantum mechanics interfering with sub-atomic particles on the andromeda galaxy": bma/60/summary.md
   - Applied Math:
       - Welcome: sam/index.md
-  - Economics & Law:
-      - Welcome: wr/index.md
-  - Informatics:
-      - Welcome: in/index.md
-  - Biology:
-      - Welcome: bi/index.md
-  - Geography:
-      - Welcome: gg/index.md
   - Physics:
       - Welcome: py/index.md
-  - Chemistry:
-      - Welcome: ci/index.md
-  - History:
-      - Welcome: gs/index.md

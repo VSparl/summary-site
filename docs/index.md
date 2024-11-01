@@ -4,7 +4,8 @@ This is the website where I host the summaries I write.
 
 ## Latest summaries
 
-Currently, this site is still under development, which is why you won't find anything useful here yet.
+!!! warning ""
+    Currently, this site is still under development, which is why you won't find anything useful here yet.
 
 ## Navigation
 
@@ -15,7 +16,6 @@ You can easily navigate the interface by selecting your topic from the top bar. 
 
 ## To-do list for this site
 
-- LaTex support
 - Adjust color scheme (specifically text colour) for better contrast
 - Write About page
 - 404 page (see [this one](https://www.wayside.studio/404) for inspiration)
