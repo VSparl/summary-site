@@ -1,1 +1,1 @@
-# Welcome to applied mathematics!
+# Welcome to applied mathematics

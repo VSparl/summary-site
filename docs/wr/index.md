@@ -1,1 +1,1 @@
-# Welcome to economy and law!
+# Welcome to economics and law

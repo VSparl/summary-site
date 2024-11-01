@@ -19,6 +19,11 @@ theme:
     - navigation.top # Show back to top button
     - navigation.path # Show path breadcrumbs at top of file
 
+markdown_extensions:
+  - admonition # Pretty boxes that show important information
+  - pymdownx.details # Make admonitions collapsible
+  - pymdownx.superfences # Enable nesting of elements (like code blocks in quotes)
+
 # Website navigation structure
 nav:
   - Home: index.md
@@ -27,11 +32,19 @@ nav:
       - Welcome: bma/index.md
       - "1 - Trigonometry and Logarithms": bma/1/summary.md
       - "60 - Advanced quantum mechanics interfering with sub-atomic particles on the andromeda galaxy": bma/60/summary.md
-  - Applied Math: sam/index.md
-  - Economics & Law: wr/index.md
-  - Informatics: in/index.md
-  - Biology: bi/index.md
-  - Geography: gg/index.md
-  - Physics: py/index.md
-  - Chemistry: ci/index.md
-  - History: gs/index.md
+  - Applied Math:
+      - Welcome: sam/index.md
+  - Economics & Law:
+      - Welcome: wr/index.md
+  - Informatics:
+      - Welcome: in/index.md
+  - Biology:
+      - Welcome: bi/index.md
+  - Geography:
+      - Welcome: gg/index.md
+  - Physics:
+      - Welcome: py/index.md
+  - Chemistry:
+      - Welcome: ci/index.md
+  - History:
+      - Welcome: gs/index.md

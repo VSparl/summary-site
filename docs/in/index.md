@@ -1,1 +1,1 @@
-# Welcome to informatics!
+# Welcome to informatics

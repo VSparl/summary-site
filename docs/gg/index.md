@@ -1,1 +1,1 @@
-# Welcome to geography!
+# Welcome to geography
