@@ -4,7 +4,7 @@ This is the website where I host the summaries I write.
 
 ## Latest summaries
 
-Currently working on the [economics summary](wr/1/summary.md) for the test on monday
+The [economics summary](wr/1/summary.md) for the test on monday is done!
 
 <!--prettier-ignore-->
 !!! warning
@@ -12,7 +12,7 @@ Currently working on the [economics summary](wr/1/summary.md) for the test on mo
 
 ## Navigation
 
-You can easily navigate the interface by selecting your topic from the top bar. Then, you will find the available topics on the left-hand side of the screen. Choose one and you will be directed to the summary.
+You can easily navigate the interface by selecting your subject from the top bar. Then, you will find the available topics on the left-hand side of the screen. Choose one and you will be directed to the summary.
 
 <!--prettier-ignore-->
 !!! note
