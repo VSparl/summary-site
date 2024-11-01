@@ -1,5 +1,6 @@
 site_name: Summaries 4G
 site_url: https://summaries-4g.netlify.app
+copyright: Copyright &copy; 2024 Victor Spârleanu  # Displayed in the footer
 
 # Include extra CSS stylesheet
 extra_css:
@@ -13,9 +14,14 @@ extra_javascript:
 # Configure Markdown extensions for added functionality
 markdown_extensions:
   - tables # Add support for tables
+  - footnotes # Add footnote support
   - admonition # Pretty boxes that show important information
   - pymdownx.details # Make admonitions collapsible
-  - pymdownx.superfences # Enable nesting of elements (like code blocks in quotes)
+  - pymdownx.superfences: # Enable nesting of elements (like code blocks in quotes)
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.arithmatex: # Required for MathJax
       generic: true
   - pymdownx.caret # Enable ^superscript^
@@ -28,6 +34,14 @@ theme:
   palette:
     scheme: slate # Dark mode
     primary: custom # Use primary color defined in extra.css
+  font:
+    text: Raleway
+    code: JetBrains Mono
+  features:
+    - header.autohide
+  icon:
+    admonition:  # Configure the icons for admonitions by name
+      summary: octicons/note-16
 
   features:
     - navigation.instant # Quick navigation
