@@ -4,6 +4,8 @@ This is the website where I host the summaries I write.
 
 ## Latest summaries
 
+Currently working on the [economics summary](wr/1/summary.md) for the test on monday
+
 <!--prettier-ignore-->
 !!! warning
     Currently, this site is still under development, which is why links and appearance might change, causing links to break.
