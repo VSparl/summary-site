@@ -121,7 +121,7 @@ graph TD
 ## Economic Principles
 
 <!--prettier-ignore-->
-!!! note ""
+!!! summary ""
     An economic principle tries to achieve a reasonable ratio between the input and output value of an activity
 
 - **maximum** principle: Achieve maximum output with a fixed input
