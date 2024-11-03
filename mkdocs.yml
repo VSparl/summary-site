@@ -43,7 +43,7 @@ theme:
     text: Raleway
     code: JetBrains Mono
   features:
-    - header.autohide
+    - header.autohide  # Autohide header when scrolling
   icon:
     admonition:  # Configure the icons for admonitions by name
       summary: octicons/note-16
