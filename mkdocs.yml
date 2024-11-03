@@ -11,6 +11,11 @@ extra_javascript:
   - javascripts/mathjax.js # Enable MathJax for LaTex
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # Required for MathJax
 
+extra:
+  analytics:
+    provider: google
+    property: G-GJH1475WEJ
+
 # Configure Markdown extensions for added functionality
 markdown_extensions:
   - tables # Add support for tables
