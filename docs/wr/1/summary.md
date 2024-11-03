@@ -55,7 +55,7 @@ All human needs can be categorized into three different groups, according to the
 Furthermore, needs can also be categorized by the **number of people that need affects**:
 
 <!--prettier-ignore-->
-- **collective needs**: Needs that many people are affected by and where many peole are neede to satisfy the need; often by the state
+- **collective needs**: Needs that many people are affected by and where many peole are needed to satisfy the need; often by the state
     - national defense system
     - highways
 - **individual needs**: Needs that a person fulfills on their own, which don't really affect other people
@@ -125,7 +125,7 @@ graph TD
     An economic principle tries to achieve a reasonable ratio between the input and output value of an activity
 
 - **maximum** principle: Achieve maximum output with a fixed input
-- **minimum** principle: Achieve fixed output at a fixed input
+- **minimum** principle: Achieve fixed output with minimum input
 - **optimum** principle: Achieve a balance when neiter input nor output is specified
 
 ---
