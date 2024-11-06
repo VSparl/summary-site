@@ -78,7 +78,7 @@ While the first slaves were already brought to Virginia at the beginning of the 
     - fur
     - shipbuilding
     - iron industry
-- still, the mayority of people still lived from agriculture
+- still, the mayority of people continued to live from agriculture
 
 ### Economy
 
@@ -86,6 +86,7 @@ While the first slaves were already brought to Virginia at the beginning of the 
 - triangular trade brought great profits:
     - Europe brings African slaves
     - America brings goods produced by slaves to Europe
+    - Europe uses money to buy more african Slaves
 - England had many **cotton and tobacco imports**
 - increase in population and diversification of jobs helped the economy
 
@@ -115,20 +116,31 @@ countries where people arrive from:
 
 England had significant control over the land, so they could make the rules:
 
-1. **Navigation Act** (1651): only English ships are allowed to bring products to England and its colonies
-2. **Second Navigation Act**: certain products (sugar, tobacco, wool, indigo, etc.) are allowed **export only to England**
+1. **Navigation Act I** (1651): only English ships are allowed to bring products to England and its colonies
+2. **Navigation Act II**: certain products (sugar, tobacco, wool, indigo, etc.) are allowed **export only to England**
 3. wool, hats and ironmongery[^7] can **only be sourced from England**
 4. **Wool Act**: colonies are no longer allowed to export or produce woolen goods or hats
 5. **Iron Act**: colonies are no longer allowed to export or produce iron goods
 6. **Sugar Act**: increase revenue from colonies → import tax on sugar from [West Indies](https://en.wikipedia.org/wiki/West_Indies "Wikipedia - West Indies")
-7. **Stamp Act**: tax on **stamped paper** that should be used in official documents, newspapers and playing cards
+7. **Stamp Act**: tax on **stamped paper** that should be used in almost every printed paper in the colonies
 8. additional taxes imposed on tea, glass, paper etc.
 9. stricter surveillance of American ports increased British profits 15-fold
 
 !!! tip "protests"
-    The stamp act had to be repealed[^8] due to boycotts. American merchants were no longer buying English products, which damaged the English profits even more
+    The stamp act had to be repealed[^8] due to boycotts. American merchants were no longer buying English products, which damaged the English profits even more. They also protested in New York with the famous slogan _"No taxation without representation"_
 
-# Footnotes
+## Rebellion and Revolution
+
+The two main powers in America were **Britain and France**. After seven years of war _(1756-1763)_ between them, Britain emerged as the winner. This meant that they got new territory and more power over the land. However, there were also some problems:
+
+- war was expensive → British national **debt nearly doubled**
+- Britain set up a **permanent army** of 10'000 soldiers in America
+- Britain **raised taxes** and made [new laws](summary.md#relationship-with-england "This document - Relationship with England") to pay for debt and army
+- many colonists were upset because they **didn't ask for an army**, nor did they accept the fact that England taxed civilians who were **unrepresented at parliament**
+- all these concerns lead to uprisings and eventually a **revolution**
+- people wanted **independence from the British**
+- **Declaration of Independence** was written on _4^th^ July 1776_ → the 13 colonies were now free, separated and independent from Great Britain
+
 [^1]: Also called the **League of Iroquois** by the Europeans
 
 [^2]: Also called the **Keepers of the Eastern Fire**
