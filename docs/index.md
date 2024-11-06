@@ -4,7 +4,7 @@ This is the website where I host the summaries I write.
 
 ## Latest summaries
 
-The [history summary](gs/1/summary.md "go to the history summary") is online! I'm still working on it, but the start is there...
+The [history summary](gs/1/summary.md "go to the history summary") is finished!
 
 ## Navigation
 

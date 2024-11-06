@@ -157,8 +157,6 @@ A few clarifications:
 - **swing states**: states where the outcome of the election can't be accurately predicted based on historical facts
     > Swing states are a major point of concern and focus for the candidates, as they can win the votes of an additional state
 
-# Footnotes
-
 [^1]: Also called the **League of Iroquois** by the Europeans
 
 [^2]: Also called the **Keepers of the Eastern Fire**
