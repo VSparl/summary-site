@@ -141,6 +141,24 @@ The two main powers in America were **Britain and France**. After seven years of
 - people wanted **independence from the British**
 - **Declaration of Independence** was written on _4^th^ July 1776_ → the 13 colonies were now free, separated and independent from Great Britain
 
+## Modern Election
+
+Although many years have passed and society has seen great changes, the process of the US presidential election has remained mostly the same:
+![Election Process - U.S. Embassy in Kazakhstan](election-process.png "Overview of the election process")
+
+A few clarifications:
+
+- **Certification**: takes place on January 6^th^; **official confirmation** of who was elected president
+- at the primary election, people vote for **delegates** that then will vote for a certain candidate at the **national convention**
+    > So the voters don't vote for a candidate directly, but rather for a person that will represent all the voters for that candidate at the national convention
+- _either_ a **caucus** _or_ a **primary election** is held, not both[^9]
+- the nominee of the national convention is chosen by **their own party** to represent them as presidential candidate
+- **"The winner takes it all"**: presidential candidates need more than half of the votes in a state to get **all the votes for that state** _(number of votes depends on population)_
+- **swing states**: states where the outcome of the election can't be accurately predicted based on historical facts
+    > Swing states are a major point of concern and focus for the candidates, as they can win the votes of an additional state
+
+# Footnotes
+
 [^1]: Also called the **League of Iroquois** by the Europeans
 
 [^2]: Also called the **Keepers of the Eastern Fire**
@@ -156,3 +174,5 @@ The two main powers in America were **Britain and France**. After seven years of
 [^7]: stuff made of metal (like tools or pans)
 
 [^8]: take back, revoke _(in the context of laws)_
+
+[^9]: nowadays caucuses are pretty rare, most parties just hold primaries
