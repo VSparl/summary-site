@@ -15,6 +15,10 @@ extra:
   analytics:
     provider: google
     property: G-GJH1475WEJ
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/VSparl/summary-site
+      name: Behind the scenes on GitHub
 
 # Configure Markdown extensions for added functionality
 markdown_extensions:
