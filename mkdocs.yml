@@ -1,6 +1,6 @@
 site_name: Summaries 4G
 site_url: https://summaries-4g.netlify.app
-copyright: Copyright &copy; 2024 Victor Spârleanu  # Displayed in the footer
+copyright: "Copyright &copy; 2024 Victor Spârleanu (<a href=\"/LICENSE/\" style=\"text-decoration: underline; font-style: italic;\">license</a>)"  # Displayed in the footer
 
 # Include extra CSS stylesheet
 extra_css:
@@ -36,6 +36,9 @@ markdown_extensions:
   - pymdownx.caret # Enable ^superscript^
   - pymdownx.tilde # Enable ~subscript~
   - pymdownx.mark # Enable ==highlighting==, ~~strikethrough~~ and ^^underline^^
+  - toc:
+      permalink_title: Permalink to this chapter  # what will be displayed when hovering over the permalink icon
+      permalink: ⚓︎  # This icon will be displayed next to titles to make a permalink to the section
 
 # Configure the color scheme and features
 theme:
@@ -53,11 +56,16 @@ theme:
       summary: octicons/note-16
 
   features:
+    - search.suggest  # Search suggestions
+    - search.share  # Quick copy of search query with results
     - navigation.instant # Quick navigation
     - navigation.instant.progress # Show page load progress
     - navigation.tabs # Show tabs in title bar
     - navigation.top # Show back to top button
     - navigation.path # Show path breadcrumbs at top of file
+
+plugins:
+- search
 
 # Website navigation structure
 nav:

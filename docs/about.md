@@ -1,3 +1,3 @@
 # About
 
-For more information check the [license](LICENSE.md) or a version that is simpler to understand [here](https://choosealicense.com/licenses/mpl-2.0/ "choosealicense.com - MPL-2.0").
+For more information check the [license](LICENSE.md) or a summary of it [here](https://www.tldrlegal.com/license/mozilla-public-license-2-0-mpl-2 "tl;drLegal - MPL-2.0").
