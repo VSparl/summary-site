@@ -53,7 +53,7 @@ Not only the English had colonies in America, but also other european nations:
 The population in the American colonies saw a massive increase around the year 1700, for several reasons:
 
 - **high birth rate**: average American family had 7 children
-- **low death rate**: better food availability in America lead to longer lives than most Europeans
+- **low death rate**: better food availability in America led to longer lives than most Europeans
 - **immigration**: many Europeans came to America
 
 While the population grew, the _population density_ still wasn't very high, as most people lived on scattered farms.
@@ -137,7 +137,7 @@ The two main powers in America were **Britain and France**. After seven years of
 - Britain set up a **permanent army** of 10'000 soldiers in America
 - Britain **raised taxes** and made [new laws](summary.md#relationship-with-england "This document - Relationship with England") to pay for debt and army
 - many colonists were upset because they **didn't ask for an army**, nor did they accept the fact that England taxed civilians who were **unrepresented at parliament**
-- all these concerns lead to uprisings and eventually a **revolution**
+- all these concerns led to uprisings and eventually a **revolution**
 - people wanted **independence from the British**
 - **Declaration of Independence** was written on _4^th^ July 1776_ → the 13 colonies were now free, separated and independent from Great Britain
 
@@ -161,6 +161,14 @@ A few clarifications:
 ## Political structure
 
 ![political structure of the US](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Political_System_of_the_United_States.svg/2560px-Political_System_of_the_United_States.svg.png "Politics of the United States - Wikipedia")
+
+- Electoral college has **538 electors**; 270 votes are required to be president
+- House of representatives has 435 members; Makes laws
+- The senate has 100 members, **2 from each state**; Makes laws
+- House of representatives and senate **must agree** on a new law for it to be passed
+- Supreme Court makes sure that the US Government respects laws; also acts as a "regular" court but for more important cases (e.g. "state vs state")
+- Supreme court has 9 members who are assigned **for their entire lives** (or until they resign)
+- President and Senate choose Supreme Court members **together**
 
 [^1]: Also called the **League of Iroquois** by the Europeans
 
