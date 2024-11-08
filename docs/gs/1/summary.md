@@ -155,7 +155,12 @@ A few clarifications:
 - the nominee of the national convention is chosen by **their own party** to represent them as presidential candidate
 - **"The winner takes it all"**: presidential candidates need more than half of the votes in a state to get **all the votes for that state** _(number of votes depends on population)_
 - **swing states**: states where the outcome of the election can't be accurately predicted based on historical facts
+
     > Swing states are a major point of concern and focus for the candidates, as they can win the votes of an additional state
+
+## Political structure
+
+![political structure of the US](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Political_System_of_the_United_States.svg/2560px-Political_System_of_the_United_States.svg.png "Politics of the United States - Wikipedia")
 
 [^1]: Also called the **League of Iroquois** by the Europeans
 
