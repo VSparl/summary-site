@@ -4,7 +4,7 @@ This is the website where I host the summaries I write.
 
 ## Latest summaries
 
-The [history summary](gs/1/summary.md "go to the history summary") is finished!
+I'm currently working on the [chemistry summary](ci/1/summary.md).
 
 ## Navigation
 
