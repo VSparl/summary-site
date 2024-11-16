@@ -87,21 +87,40 @@ Um die Edelgasregel zu erfüllen, geht jedes **Nichtmetall-**Atom so viele Bindu
 
 Wir haben das wieder so viel geübt, dass es nicht wirklich nötig sein sollte, es hier aufzuschreiben. Herr Leisinger hat aber [hier](https://www.youtube.com/watch?v=iuFdDXhDkHQ "3D-Struktur von Molekülen darstellen (Keil/Strich-Formel) - YouTube") ein Erklärvideo hochgeladen.
 
+Zudem hat es den Link zu einem weiteren Erklärvideo in den Lernzielen bei Nr. 18, welches aber ungelistet ist und ich ihn deshalb nicht hier hochlade.
 
+## Pi- und Sigma-Bindungen
 
+(Skript S. 33, 34, 2. Video)
 
+- $\sigma$-Bindungen sind **Einfachbindungen** und werden auch im Ladungswolkenmodell als einfache Striche dargestellt
+- $\pi$-Bindungen sind die zweite Bindung einer **Doppelbindung** *(siehe 2. Video in Lernzielen)* und verteilen sich um die $\sigma$-Bindung herum
+- beim Zeichnen von Molekülen stellt man das Molekül nach Möglichkeit so hin, dass die $\pi$-Bindung **in der Zeichenebene liegt**
 
+## Pi-Systeme
 
+(Skript S. 42, 43)
 
+- auch **konjugierte Systeme** genannt
+- treten auf, wenn sich in der Lewisformel **Doppelbindungen mit Einfachbindungen abwechseln**
+- $\pi$-**Systeme** sind eine Kombination aus mehreren $\pi$-**Bindungen** 
+- $\pi$-Systeme sind **komplett flach** 
+- Moleküle mit $\pi$-Systemen werden auch *mesomere* Moleküle genannt
 
+## Skelettformeln
 
+(Skript S. 44)
 
+- dienen einer einfachen, übersichtlichen Schreibweise von Molekülen
+- **$C$-Atome** werden **weggelassen** und durch 120°-**Knicks** in den Bindungen ersetzt
+- **an $C$-Atome gebundene** $H$-Atome werden **weggelassen**, da sie nur dazu dienen, die Valenzschale aufzufüllen
+- ist ein Atomsymbol doch notiert, werdern die $H$-Atome auch hinzugeschrieben, aber ohne eingezeichnete Bindung *(z.B $NH_2$, wenn das $N$-Atom schon eine Bindung hat)*
 
+    > $H$-Atome und ihre Bindungen dürfen also **nur** weggelassen werden, wenn sie **an ein $C$-Atom gebunden** sind und wenn das **Atomsymbol** des $C$-Atoms **nicht geschrieben wird**
 
-
-
-
-
+- **nEP**s werden **weggelassen**
+- es werden weder Keile noch gestrichelte Linien gezeichnet
+- Doppelbindungen sind zwei parallele Linien zwischen den verbundenen Atomen
 
 [^1]: Wichtig: Die Energie wird **freigesetzt**, nicht verbraucht. Energie wird nur dann verbraucht, wenn man die Atome zusammendrückt oder auseinanderzieht.
 [^2]: Vierfachbindungen sind **unmöglich**, weil ab einer Dreifachbindung die übrigen Elektronen von einander weg zeigen und sich nicht verbinden können
