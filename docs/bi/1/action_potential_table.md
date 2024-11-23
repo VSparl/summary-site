@@ -1,0 +1,6 @@
+| phase       | state of voltage-gated channels           | ion movement                          | membrane potential                         |
+|---------------------|-------------------------------------------|---------------------------------------|-------------------------------------------|
+| **resting potential**   | closed                                    | little $\text{K}^+$ outflux, very little $\text{Na}^+$ influx *(not through gated channels)* | $-70\ \text{mV}$                         |
+| **depolarisation**      | $\text{Na}^+$ channels begin to open *(step b)*, many open $\text{Na}^+$ channels *(step c)* | $\text{Na}^+$ influx                          | <span style="white-space: nowrap">$-70\ \text{mV}$ &rightarrow; $30\ \text{mV}$</span> |
+| **repolarisation**      | $\text{Na}^+$ channels close *(refractory period)*, $\text{K}^+$ channels open | $\text{K}^+$ outflux                          | <span style="white-space: nowrap">$30\ \text{mV}$ &rightarrow; $-70\ \text{mV}$</span> |
+| **hyperpolarisation**   | $\text{K}^+$ channels close, $\text{Na}^+$ channels still closed *(refractory period)* | $\text{K}^+$ outflux decreasing               | <span style="white-space: nowrap">$-70\ \text{mV}$ &rightarrow; $-100\ \text{mV}$</span> |

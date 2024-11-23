@@ -73,6 +73,7 @@ nav:
   - About: about.md
   - Biology:
       - Welcome: bi/index.md
+      - "1 - Nervous System": bi/1/summary.md
   - Chemistry:
       - Welcome: ci/index.md
       - "1 - Ladungswolken und Moleküle": ci/1/summary.md
