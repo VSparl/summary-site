@@ -65,7 +65,7 @@ Each piece of information is processed according to this scheme:
 ??? abstract "textbook representation of the knee-jerk reflex"
     This reflex shows how the information is transmitted and processed. In this case, the chain is quite simple, but for more complex porcesses *(vision, auditory cues etc.)* the process involves many more neurons and also travels up the CNS into the brain to be processed.
 
-    ![textbook representation of the knee-jerk reflex](./reflex.jpg "textbook representation of the knee-jerk reflex")
+    ![textbook representation of the knee-jerk reflex](./reflex.png "textbook representation of the knee-jerk reflex")
 
 ## Multiple Sclerosis
 
@@ -80,6 +80,64 @@ Each piece of information is processed according to this scheme:
     - speaking difficulties
     - impaired vision
 - first symptoms most commonly appear between the ages of 20 and 40 
+
+## Chemical Synapse
+
+???+ note "Electrical Synapses" 
+    While most neurons communicate through *chemical* synapses, repetitive and fast transfers are made possible through **electrical synapses** (aka *gap junctions*). Here, the neurons are physically connected to each other. Electrical synapses are used in situations like the communication between heart muscle cells.
+
+    ??? abstract "textbook representation of electrical synapses"
+        ![Textbook representation of electrical synapses](./electrical_synapse.png "Textbook representation of electrical synapses")
+
+- neurons don't physically touch each other
+- signal needs to be transferred accross the **synaptic cleft** to pass to the next neuron
+- signal passes from **pre**synaptic to **post**synaptic membrane
+- signal is converted to **chemical form** to pass the cleft, then back to electrical signal
+
+The process unfolds as following:
+
+1. action potential arrives at the axon terminal *(presynaptic membrane)*
+2. voltage-gated $\text{Ca}^{2+}$ channels open, letting $\text{Ca}^{2+}$ into the cell
+3. **synaptic vesicles** merge with the presynaptic membrane
+4. **neurotransmitters** *(in this case **acetylcholine**)* previously contained in synaptic vesicles are released **into the synaptic cleft**
+5. acetylcholine **binds to $\text{Na}^+$ channels**, opening them
+6. $\text{Na}^+$ flows into the cell, triggering an [action potential](#action-potential)
+7. acetylcholine is **broken down by *acetylcholine esterase*** into acetyl and choline
+
+    > If it wouldn't be broken down, the acetylcholine would just keep the $\text{Na}^+$ channels open
+
+8. the acetyl and choline are transported back into the cell and repackaged into the synaptic vesicles
+9. the synapse is ready for the next action potential
+
+## EPSPs and IPSPs
+
+> **E**xcitatory and **I**nhibitory **P**ost**S**ynaptic **P**otentials
+
+**EPSP**:
+
+- uses an **excitatory neurotransmitter** *(e.g. acetylcholine)*
+- makes the inside of the postsynaptic cell **more positive** *(in the case of acetylcholine through influx of &nbsp;$\text{Na}^+$)*
+- gets the cell closer to the $-55\ \text{mV}$ threshold required for an action potential
+- causes **depolarization** of the cell *(makes it more positive)*
+
+**IPSP**:
+
+- uses an **inhibitory neurotransmitter** *(e.g. GABA)*
+- makes the inside of the postsynaptic cell **more negative** *(in the case of GABA through influx of &nbsp;$\text{Cl}^-$)*
+- gets the cell further from the $-55\ \text{mV}$ threshold required for an action potential
+- causes **repolarization** of the cell *(makes it more negative)*
+
+The process fo transmitting a PSP involves more than one synapse, with neurons having thousands of synapses that aid in the **summation of postsynaptic potentials**:
+
+- one EPSP alone is usually **not enough** to generate an actoin potential in the postsynaptic neuron
+- it usually takes **several EPSPs** (and **fewer IPSPs**) for an action potential to be generated at the **axon hillock**
+
+??? abstract "Textbook representation of the summation of the EPSPs and IPSPs"
+    ![textbook representation of the summation of the EPSPs and IPSPs](./summation.png)
+
+
+
+
 
 
 
