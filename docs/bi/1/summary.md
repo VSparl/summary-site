@@ -30,7 +30,7 @@ Furthermore, there are **glial cells** that support the neurons in their functio
 - **inside** the cell: very little $\text{Na}^+$, lots of $\text{K}^+$
 - $\text{K}^+$ ions can get out through some open $\text{K}^+$ channels
 - $\text{Na}^+$ channels are closed, so most of it remains outside[^5]
-- **sodium-potassium-pump** is responsible for getting *out* the $\text{Na}^+$ and getting $\text{K}^+$ back *into* the cell to **maintain the charge difference**
+- **sodium-potassium-pump** (aka $\text{Na}$-$\text{K}$ pump) is responsible for getting *out* the $\text{Na}^+$ and getting $\text{K}^+$ back *into* the cell to **maintain the charge difference**
 
 ??? abstract "textbook representation of the resting potential at the cell membrane"
     ![Resting potential at the cell membrane](./resting_potential.png "Resting potential at the cell membrane")
@@ -135,6 +135,85 @@ The process fo transmitting a PSP involves more than one synapse, with neurons h
 ??? abstract "Textbook representation of the summation of the EPSPs and IPSPs"
     ![textbook representation of the summation of the EPSPs and IPSPs](./summation.png)
 
+## Dopamine and Serotonin
+
+- neurons learn by **strengthening desirable connections**
+
+    > strengthening occurrs through **wider synapses**, **more channels** or **more neurotransmitters**, all to encrease the chance of an action potential when that pathway[^8] is used
+
+- when something good is done, the brain releases **serotonin** to remember that the action is good
+- serotonin is a type of neurotransmitter that makes you happy
+- **hippocampus** stores the memories of what caused the secretion of serotonin in the past
+- when another opportunity for serotonin arises, **dopamine** is produced to encourage us to act on our desire
+- dopamine is a type of neurotransmitter that makes you *anticipate* hapiness
+
+The body goes through multiple steps when employing the reward system:
+
+1. The hippocampus recognizes an opportunity for an action that it remembers was good last time &rightarrow; **dopamine is released**
+2. When engaging in the activity you felt the urge for *(because of the dopamine)*, you feel happy &rightarrow; **serotonin is released**
+3. The brain remembers the activity that lead to hapiness so it can **release dopamine the next time** it encounters the opportunity
+
+???+ warning "which neurotransmitter does what"
+    It's not the *dopamine* that makes you happy, but the **serotonin**. Dopamine makes you *want* to do something.
+
+    ---
+    ##### Example: Eating chocolate
+
+    1. You see the chocolate and remember that you felt happy the last time you ate chocolate &rightarrow; **dopamine** is released
+    2. You eat the chocolate &rightarrow; **serotonin** is released &rightarrow; you feel happy
+    3. The hippocampus **remembers** that eating chocolate is something that indeed makes you happy, so it will release dopamine again the **next time** you see chocolate
+    
+## Brain Anatomy
+### High-Level Secions
+
+!!! note
+    We watched a video on the topic, which you can find [here](https://www.nanoo.tv/link/v/FCmYgGmP).
+
+The brain consists of multiple parts:
+
+![Parts of the brain](./brain_segments.png "Parts of the brain")
+
+> The closer you get to the spinal cord, the more basic the functions of that region become
+
+### Lower-Level Sections
+
+- **brainstem**:
+    - breathing, circulation, digestion
+    - routing & filtering sensory information & motor output
+- **cerebellum**:
+    - motor control
+    - motion / muscle memory
+- **thalamus**: data sorting
+- **hypothalamus**: homeostasis[^9]
+- **posterior pituitary gland**: sends out hormones
+- **cerebrum**: integration *(processing incoming data)*
+- **corpus collosum**: connection between two brain hemispheres that also allows them to communicate
+
+> Brain consists of **two hemispheres**, between which specific tasks are divided. While the **right** half of the brain is oriented more towards things like **facial recognition**, the **left** side of the brain is responsible for **logical reasoning**, math or speech
+
+??? abstract "Position of the sections in the brain"
+    ![position of the sections in the brain](./brain_sections_detailed.png "position of the sections in the brain")
+
+### Lobes of the Cerebral Cortex
+
+The cerebral cortex comprises about 80% of the entire brain and is divided into four lobes, each with different functions.
+
+- **frontal lobe**: executive functions and emotional control *(impulses, planning, regulating attention)*
+- **parietal lobe**: processing sensory input
+- **occipital lobe**: vision
+- **temporal lobe**: language, hearing, memories
+
+??? abstract "Names of the lobes in the brain"
+    ![names of the lobes in the brain](./lobes.png "names of the lobes in the brain")
+
+There are two more notable regions in the brain that are very important for movement and sensory processing:
+
+- **sensory cortex** *(aka somatosensory cortex)*: take in and process sensory signals
+- **motor cortex**: send out signals to muscles based on the processing done in the sensory cortex
+
+
+
+
 
 
 
@@ -156,3 +235,5 @@ The process fo transmitting a PSP involves more than one synapse, with neurons h
 [^5]: A little bit of $\text{Na}^+$ always diffuses into the cell, which is why it needs to be pumped back out
 [^6]: The other cell can be a neuron as well, but could also be e.g. a muscle cell
 [^7]: Type of disease where the body **attacks** its own **healthy cells**, mistaking them for something that needs to be destroyed
+[^8]: The connections between neurons are also called **pathways**
+[^9]: Maintaining a constant body temperature, water level etc.

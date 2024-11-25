@@ -39,6 +39,7 @@ markdown_extensions:
   - toc:
       permalink_title: Permalink to this chapter  # what will be displayed when hovering over the permalink icon
       permalink: ⚓︎  # This icon will be displayed next to titles to make a permalink to the section
+      toc_depth: 3
 
 # Configure the color scheme and features
 theme:
