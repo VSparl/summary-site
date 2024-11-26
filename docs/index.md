@@ -4,7 +4,7 @@ This is the website where I host the summaries I write.
 
 ## Latest summaries
 
-Currently working on the [biology summary](bi/1/summary.md)!
+Done with the [biology summary](bi/1/summary.md)!
 
 ## Navigation
 

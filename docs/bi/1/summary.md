@@ -21,6 +21,7 @@ Furthermore, there are **glial cells** that support the neurons in their functio
 - voltage-gated channels are only found at the **Nodes of Ranvier**, which are the non-myelinated segments between Schwann cells
 - Schwann cells facilitate the **saltatory conduction**[^4] of signals
 
+---
 ## Resting Potential
 
 - inside of a neuron is **negatively charged**
@@ -35,6 +36,7 @@ Furthermore, there are **glial cells** that support the neurons in their functio
 ??? abstract "textbook representation of the resting potential at the cell membrane"
     ![Resting potential at the cell membrane](./resting_potential.png "Resting potential at the cell membrane")
 
+---
 ## Action Potential
 
 - used to **transmit information** between neurons and other cells[^6]
@@ -49,6 +51,7 @@ The process of the action potential unfolds as following:
     note that the hyperpolarisation phase is not labeled in the picture
     ![image of the action potential propagation](./action_potential.png "image of the action potential propagation")
 
+---
 ## Stimulus-Response Scheme
 
 Neurons can be classified into two categories:
@@ -67,6 +70,7 @@ Each piece of information is processed according to this scheme:
 
     ![textbook representation of the knee-jerk reflex](./reflex.png "textbook representation of the knee-jerk reflex")
 
+---
 ## Multiple Sclerosis
 
 - autoimmune disease[^7] where the **myelin sheath** around the axon is **damaged**
@@ -81,6 +85,7 @@ Each piece of information is processed according to this scheme:
     - impaired vision
 - first symptoms most commonly appear between the ages of 20 and 40 
 
+---
 ## Chemical Synapse
 
 ???+ note "Electrical Synapses" 
@@ -109,6 +114,7 @@ The process unfolds as following:
 8. the acetyl and choline are transported back into the cell and repackaged into the synaptic vesicles
 9. the synapse is ready for the next action potential
 
+---
 ## EPSPs and IPSPs
 
 > **E**xcitatory and **I**nhibitory **P**ost**S**ynaptic **P**otentials
@@ -135,6 +141,7 @@ The process fo transmitting a PSP involves more than one synapse, with neurons h
 ??? abstract "Textbook representation of the summation of the EPSPs and IPSPs"
     ![textbook representation of the summation of the EPSPs and IPSPs](./summation.png)
 
+---
 ## Dopamine and Serotonin
 
 - neurons learn by **strengthening desirable connections**
@@ -163,6 +170,7 @@ The body goes through multiple steps when employing the reward system:
     2. You eat the chocolate &rightarrow; **serotonin** is released &rightarrow; you feel happy
     3. The hippocampus **remembers** that eating chocolate is something that indeed makes you happy, so it will release dopamine again the **next time** you see chocolate
     
+---
 ## Brain Anatomy
 ### High-Level Secions
 
@@ -187,7 +195,7 @@ The brain consists of multiple parts:
 - **hypothalamus**: homeostasis[^9]
 - **posterior pituitary gland**: sends out hormones
 - **cerebrum**: integration *(processing incoming data)*
-- **corpus collosum**: connection between two brain hemispheres that also allows them to communicate
+- **corpus callosum**: connection between two brain hemispheres that also allows them to communicate
 
 > Brain consists of **two hemispheres**, between which specific tasks are divided. While the **right** half of the brain is oriented more towards things like **facial recognition**, the **left** side of the brain is responsible for **logical reasoning**, math or speech
 
@@ -211,21 +219,10 @@ There are two more notable regions in the brain that are very important for move
 - **sensory cortex** *(aka somatosensory cortex)*: take in and process sensory signals
 - **motor cortex**: send out signals to muscles based on the processing done in the sensory cortex
 
+---
+## Split-Brain Patients
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+There really isn't much to say on the topic, we only watched a few videos and read a text which you can find [here](https://knowingneurons.com/blog/2014/07/23/the-split-brain-making-two-hemispheres-whole/ "The Split Brain: Making Two Hemispheres Whole - Knowing Neurons").
 
 
 [^1]: The other cell can be a neuron as well, but could also be e.g. a muscle cell
