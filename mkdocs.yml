@@ -81,6 +81,7 @@ nav:
   - Economics & Law:
       - Welcome: wr/index.md
       - "1 - Introduction": wr/1/summary.md
+      - "2 - Law": wr/2/summary.md
   - Geography:
       - Welcome: gg/index.md
       - "1 - Amerika": gg/1/summary.md
