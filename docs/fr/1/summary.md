@@ -16,7 +16,7 @@
 
 ## Formation du Subjonctif
 
-racine du 2. personne pluriel *(nous)*<br>
+racine du 3. personne pluriel *(ils)*<br>
 <span style="font-size: 2em">+</span><br>
 
 | terminaison |
