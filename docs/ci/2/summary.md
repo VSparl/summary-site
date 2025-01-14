@@ -147,6 +147,7 @@
 - Ladungsänderung des Moleküls **induziert** ebenfalls temporäre Dipole in **benachbarten Molekülen**
 
 DispW werden stärker, wenn die beteiligten Moleküle **gut polarisierbar** sind, also für die enthaltenen Atome gilt:
+
 - grosse Rümpfe und kleine Rumpfladung
 - nEPs vorhanden
 - $\pi$-Bindungen im Molekül vorhanden
