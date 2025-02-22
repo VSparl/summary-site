@@ -135,7 +135,7 @@ The two main powers in America were **Britain and France**. After seven years of
 
 - war was expensive → British national **debt nearly doubled**
 - Britain set up a **permanent army** of 10'000 soldiers in America
-- Britain **raised taxes** and made [new laws](summary.md#relationship-with-england "This document - Relationship with England") to pay for debt and army
+- Britain **raised taxes** and made [new laws](docs/gs/1/summary.md#relationship-with-england "This document - Relationship with England") to pay for debt and army
 - many colonists were upset because they **didn't ask for an army**, nor did they accept the fact that England taxed civilians who were **unrepresented at parliament**
 - all these concerns led to uprisings and eventually a **revolution**
 - people wanted **independence from the British**
