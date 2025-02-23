@@ -48,7 +48,7 @@ theme:
     scheme: slate # Dark mode
     primary: custom # Use primary color defined in extra.css
   font:
-    text: Raleway
+    text: Pluto Sans
     code: JetBrains Mono
   features:
     - header.autohide  # Autohide header when scrolling
