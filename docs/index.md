@@ -4,7 +4,7 @@ This is the website where I host the summaries I write.
 
 ## Latest summaries
 
-Finished with the [chemistry summary](ci/2/summary.md)!
+Working on the [economy summary](wr/3/summary.md)!
 
 ## Navigation
 
