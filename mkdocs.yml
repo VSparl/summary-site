@@ -75,6 +75,7 @@ nav:
   - Biology:
       - Welcome: bi/index.md
       - "1 - Nervous System": bi/1/summary.md
+      - "2 - Endocrine System & Molecular Biology": bi/2/summary.md
   - Chemistry:
       - Welcome: ci/index.md
       - "1 - Ladungswolken und Moleküle": ci/1/summary.md

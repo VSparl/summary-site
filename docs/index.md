@@ -1,10 +1,7 @@
 # Welcome to Summaries 4G
 
-This is the website where I host the summaries I write.
-
-## Latest summaries
-
-Working on the [economy summary](wr/3/summary.md)!
+This is the website where I host the summaries I write. You can find the newest one 
+[here](bi/2/summary.md).
 
 ## Navigation
 
