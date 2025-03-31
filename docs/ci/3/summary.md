@@ -73,7 +73,7 @@ Vorgang einer chemischen Reaktion:
 
 ## Reaktionstypen
 
-## Exotherme Reaktionen
+### Exotherme Reaktionen
 
 - Energie wird **freigesetzt**[^3] &rightarrow; $\Delta H_R < 0$
 - Wärme entsteht
