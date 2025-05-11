@@ -95,5 +95,6 @@
 [^1]: **B**rutto**n**ational**e**inkommen
 
 Beispiele:
+
 - **Bangladesch**: starke Korrelation -> Bevölkerungswachstumsrate sinkt mit der Zunahme des Bruttonationaleinkommens
 - **Thailand / Südkorea**: weniger deutlich -> Asien-Krise (1997/98) hat Schwankungen verursacht
