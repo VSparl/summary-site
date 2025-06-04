@@ -1,6 +1,6 @@
 ---
 name: Typo
-about: Report a typo
+about: Report a misspelled word
 title: "[TYPO]"
 labels: ''
 assignees: VSparl
@@ -8,10 +8,10 @@ assignees: VSparl
 ---
 
 **Word**
-What word was wrong and what should it be?
+*What word was wrong and what should it be?*
 
 **Location**
-Which chapter needs to be corrected
+*Which chapter needs to be corrected*
 
 **Additional information**
-Anything else you would like to say
+*Anything else you would like to say*
