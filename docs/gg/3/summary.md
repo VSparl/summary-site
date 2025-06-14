@@ -30,7 +30,7 @@
 - **jährliche Zuwachsrate**: Zuwachs als Faktor oder Prozent der Bevölkerung zum Jahresbeginn ($\frac{\text{Ende} - \text{Anfang}}{\text{Anfang}}$)
 - **Allgemeine Fruchtbarkeitsrate**: Häufigkeit des Mutterwerdens &rightarrow; Kinder pro Frau zwischen 15-45 J
 - **Ersatzniveau**: Bei $2.13$ Kinder / Frau bleibt das **natürliche** Bevölkerungswachstum Null
-- **Altersaufbau**: Anteil der Bevölkerung mit einem Bestimmten Alter &rightarrow; Grundlage für die [Alterspyramide](#Bevölkerungsentwicklung)
+- **Altersaufbau**: Anteil der Bevölkerung mit einem Bestimmten Alter &rightarrow; Grundlage für die Alterspyramide
 - **Allgemeine Lebenserwartung**: Lebenserwartung bei **Geburt**
 - Lebenserwartung bei 65 Jahren
 - **Verdoppelungszeit**: Jahre, bis sich die Bevölkerung verdoppelt &rightarrow; $\frac{70}{\text{natürliche Wachstumsrate in }\%}$
