@@ -1,7 +1,7 @@
 # Welcome to Summaries 4G
 
 This is the website where I host the summaries I write. You can find the newest one 
-[here](gg/3/summary.md).
+[here](wr/4/summary.md).
 
 ## Navigation
 
