@@ -30,26 +30,26 @@ Beispielsweise die Lotusblüte wird nie schmutzig, auch wenn sie mit schmutzigem
 
 [^1]: Kräfte zwischen Wasser und Oberfläche, die das Wasser ein wenig auf der Oberfläche haften lassen.
 
-## Bindungsentalphie
+## Bindungsenthalpie
 
-- Bindungsentalphie $\Delta H_B$ für eine Bindung $X - Y$ wird als $\Delta H_{X - Y}$ notiert
+- Bindungsenthalpie $\Delta H_B$ für eine Bindung $X - Y$ wird als $\Delta H_{X - Y}$ notiert
 - **homolytische** Bindungsspaltung: bEP[^2] wird wieder auf Bindungspartner aufgeteilt ($X-Y \rightarrow X\cdot + \cdot Y$)
 - **heterolytische** Bindungsspaltung: bEP bleibt am elektronegativeren Atom kleben ($X - Y \rightarrow X|^- + Y^+$)
 - beim **Eingehen** einer Bindung wird Energie **freigesetzt**
 - beim **Spalten** einer Bindung wird Energie **verbraucht**
-- Energiebetrag aus **1 mol** Bindungen &rightarrow; **Bindungsentalphie**
-- **Doppel- und Dreifachbindungen** haben grössere Bindungsentalphie
-- **stärker polare** Bindungen haben grössere Bindungsentalphie
-- **kürzere** Bindungen haben grössere Bindungsentalphie
+- Energiebetrag aus **1 mol** Bindungen &rightarrow; **Bindungsenthalpie**
+- **Doppel- und Dreifachbindungen** haben grössere Bindungsenthalpie
+- **stärker polare** Bindungen haben grössere Bindungsenthalpie
+- **kürzere** Bindungen haben grössere Bindungsenthalpie
 
 !!! note "Reaktionen mit Polaren Bindungen"
     Apolare und schwach polare Bindungen werden **einfach gespalten**. Wenn in einer Reaktion also schwach polare gespalten und stark polare Bindungen aufgebaut werden, verläuft die Reaktion meist **exotherm**.
 
 [^2]: bindendes Elektronenpaar
 
-## Reaktionsentalphie
+## Reaktionsenthalpie
 
-- Reaktionsentalphie $\Delta H_R$
+- Reaktionsenthalpie $\Delta H_R$
 
 Vorgang einer chemischen Reaktion:
 
@@ -57,8 +57,8 @@ Vorgang einer chemischen Reaktion:
 2. Reaktion befindet sich im **Übergangszustand** *(höchster Punkt im Energiediagramm)*
 3. entstandene Atome / Ionen kombinieren sich wieder zu stärker polaren Bindungen &rightarrow; Energie **wird frei**
 
-??? example "Berechnung der Reaktionsentalphie"
-    Formel für die Reaktionsentalphie:
+??? example "Berechnung der Reaktionsenthalpie"
+    Formel für die Reaktionsenthalpie:
 
     $$\Delta H_R = \Sigma \ \Delta H_B \ \text{(Produkte)} - \Sigma \ \Delta H_B \ \text{(Edukte)}$$
 
@@ -68,8 +68,8 @@ Vorgang einer chemischen Reaktion:
     - $\Delta H_R > 0$ &rightarrow; **endotherme** Reaktion
     - Term $\Sigma \ \Delta H_B \ \text{(Produkte)}$ ist **negativ** *(Bindungen werden erstellt)*
     - Term $\Sigma \ \Delta H_B \ \text{(Edukte)}$ ist **positiv** *(Bindungen werden gespalten)*
-    - Falls die gleiche Art Bindung **mehrmals** gespalten / geknüpft wird, wird auch **mehrmals** die Bindungsentalphie verbraucht / freigesetzt
-    - falls Reaktanden nicht im gleichen **Aggregatszustand** sind &rightarrow; Schmelz- / Verdampfungsentalphien mit einbeziehen
+    - Falls die gleiche Art Bindung **mehrmals** gespalten / geknüpft wird, wird auch **mehrmals** die Bindungsenthalpie verbraucht / freigesetzt
+    - falls Reaktanden nicht im gleichen **Aggregatszustand** sind &rightarrow; Schmelz- / Verdampfungsenthalpien mit einbeziehen
 
 ## Reaktionstypen
 
