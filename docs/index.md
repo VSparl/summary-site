@@ -1,6 +1,6 @@
 # Welcome to Summaries 4G
 
-This is the website where I host the summaries I write. The newest ones are [law](wr/4/summary.md) and [biology](bi/3/summary.md).
+This is the website where I host the summaries I write. The newest one is [chemistry](ci/4/summary/).
 
 ## Navigation
 
