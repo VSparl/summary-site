@@ -2,8 +2,8 @@
 
 - **Absolutismus (17./18. Jh.)**: Monarchische Alleinherrschaft, höfische Kultur, Unterdrückung bürgerlicher Schichten
 - **Französische Revolution (1789)**: 
-  - Bastille-Sturm am 14. Juli als Symbol für Bürgertum gegen Feudalismus
-  - Umsetzung aufklärerischer Ideale: Menschenrechte, Gewaltenteilung, Volkssouveränität
+    - Bastille-Sturm am 14. Juli als Symbol für Bürgertum gegen Feudalismus
+    - Umsetzung aufklärerischer Ideale: Menschenrechte, Gewaltenteilung, Volkssouveränität
 - **Aufklärung (18. Jh.)**: Emanzipation durch Vernunft, Kritik an Autoritäten, Bildung als Schlüssel zur Befreiung
     - Entstehung des Bürgertums und neuer Bildungsschichten
 
