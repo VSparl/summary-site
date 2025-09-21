@@ -1,6 +1,6 @@
 # Welcome to Summaries 4G
 
-This is the website where I host the summaries I write. The newest one is [chemistry](ci/4/summary/).
+This is the website where I host the summaries I write. The newest one is [German](de/2/summary/).
 
 ## Navigation
 
