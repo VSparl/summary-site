@@ -92,13 +92,13 @@ nav:
       - "1 - Amerika": gg/1/summary.md
       - "2 - Naturgefahren in Nordamerika": gg/2/summary.md
       - "3 - Demographie": gg/3/summary.md
+  - German:
+      - Welcome: de/index.md
+      - "1 - Sprachwandel": de/1/summary.md
+      - "2 - Aufklärung": de/2/summary.md
   - History:
       - Welcome: gs/index.md
       - "1 - USA": gs/1/summary.md
-  - Informatics:
-      - Welcome: in/index.md
   - Math:
       - Welcome: bma/index.md
       - "1 - Trigonometry and Logarithms": bma/1/summary.md
-  - Applied Math:
-      - Welcome: sam/index.md
