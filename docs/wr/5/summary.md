@@ -26,6 +26,12 @@
 
 ### Market Growth and Saturation
 
+calculation of market saturation (expressed as a percentage):
+
+$$
+\frac{\text{market volume}}{\text{market potential}}
+$$
+
 **saturated** market
 
 - market _volume_ is close to market _potential_
@@ -100,6 +106,9 @@ Life cycle of a product can be categorized into **5 phases**:
     - profit goes to 0
     - sales continue to decrease
 
+??? abstract "Worksheet representation of the product life cycle"
+    ![product life cycle graph](./plc.png)
+
 - - -
 ## Market Research
 
@@ -139,7 +148,8 @@ This data is collected through two **survey methods**:
 ## Goals
 
 > _"In life you need goals. In marketing, you also need goals."_
-> - L.M., 12.09.2025
+>
+> &ndash; L.M., 12.09.2025
 
 **Market goals** establish _how_ you're selling your product:
 
@@ -158,5 +168,62 @@ The **product range selection** determines what kind of selection you will offer
 - based on _depth_ and _width_
 - focus on different _types_ of products or different _versions_ of the same type?
 
-??? abstract "diagram of the product range selection"
+??? abstract "Worksheet representation of the product range selection"
     ![Product range selection diagram](./diagram.png)
+
+- - -
+## Marketing Mix _(the 4-P's model)_
+
+There are generally four important areas to consider when marketing your business:
+
+- **Product**: meeting customer needs through performance and design
+    - sales program
+    - product features & design
+    - packaging
+    - services provided
+    - warranty
+- **Price**: acceptable prices & conditions while maximising profit
+    - pricing strategy
+    - conditions _(e.g. bulk discounts)_
+- **Place**: fast, cost-effective advertising, choosing of distribution channels
+    - sales channels
+    - means of transportation
+- **Promotion**: winning over the customers
+    - advertising
+    - public relations / image
+    - sponsorships
+
+
+### Price Determination
+
+- **demand-oriented**:
+    - based on consumers' **willingness to pay**
+    - **price ceiling** &rightarrow; max price the customer pays
+    - **price-elastic demand**: buyers are sensitive to price increases
+    - **price-inelastic demand**: buyers are mostly forced to tolerate price increases[^3]
+- **cost-oriented**:
+    - based on production **costs**
+    - **price floor** &rightarrow; lowest price the company still makes a profit
+- **competition-oriented**:
+    - based on **competitors' prices**
+    - price set relative to competition, **regardless of demand or costs**
+    - often observed in oligopolies _(e.g. motor fuels)_
+
+[^3]: This is the case for things you _need_, regardless of their price _(e.g. bread, toothpaste etc.)_
+
+### Discount types
+
+There are 4 discount types _(with some examples)_:
+
+- **volume**: e.g. "_20% off the second product_"
+- **special**: e.g. referral discounts
+- **time**: e.g. summer sale
+- **loyalty**: e.g. "_membership card holders get 10% off_"
+
+- - -
+## AIDA model
+
+1. **A**ttention: Grab the customers' attention _(usually with an image or large text)_
+2. **I**nterest: Raise interest in your product, make the customer want to know more
+3. **D**esire: Make the customer want your product _(or at least inform themselves more)_
+4. **A**ction: Get the customer to buy your product, go on your website etc.
