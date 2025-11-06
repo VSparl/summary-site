@@ -1,0 +1,36 @@
+# Demographie - Teil 2
+
+## Entwicklung der Weltbevölkerung
+
+- bis 19. Jhdt &rightarrow; Bevölkerungswachstum in **Industrieländern**
+- sinkende Kindersterblichkeit ermöglicht rascher Anstieg der Bevölkerung
+- ab ca. 1950 &rightarrow; Wachstum in den **Entwicklungsländern**
+- 
+
+## Bevölkerungsprognosen
+
+**Lineares** Modell:
+
+- $B(t)$ = Anz. Menschen zur Zeit $t$
+- $B(0)$ = Anz. Menschen im Ausgangsjahr
+- $d$ = Absoluter Bevölkerungszuwachs pro Jahr
+- $t$ = Zeit in Jahren
+
+$$B(t) = B(0) + (t \cdot d)$$
+
+$$d = \frac{1}{t}(B(t) - B(0))$$
+
+$$\text{Verdoppelungszeit } t = \frac{B_0}{d}$$
+
+**Exponentielles** Modell:
+
+- $B(t)$ = Anz. Menschen zur Zeit $t$
+- $B(0)$ = Anz. Menschen im Ausgangsjahr
+- $r$ = Wachstumsrate pro Jahr **als Dezimalzahl** _(nicht Prozent)_
+- $t$ = Zeit in Jahren
+
+$$B(t) = B(0) \cdot (1 + r)^t$$
+
+$$r = \sqrt[t]{\frac{B(t)}{B(0)}}-1$$
+
+$$\text{Verdoppelungszeit } t = \frac{\log_{10} (2)}{\log_{10}(1+r)}$$
