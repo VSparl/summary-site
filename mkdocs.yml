@@ -1,6 +1,6 @@
 site_name: Summaries 4G
 site_url: https://summaries-4g.netlify.app
-copyright: "Copyright &copy; 2025 Victor Spârleanu (<a href=\"/LICENSE/\" style=\"text-decoration: underline; font-style: italic;\">license</a>)"  # Displayed in the footer
+copyright: "Copyright &copy; 2025 Victor Spârleanu (<a href=\"/LICENSE/\" style=\"text-decoration: underline;\">license</a>)"  # Displayed in the footer
 
 # Include extra CSS stylesheet
 extra_css:
@@ -45,7 +45,7 @@ theme:
     scheme: slate # Dark mode
     primary: custom # Use primary color defined in extra.css
   font:
-    text: Pluto Sans
+    text: Roboto
     code: JetBrains Mono
   features:
     - header.autohide  # Autohide header when scrolling
@@ -80,6 +80,7 @@ nav:
       - "2 - Organische Stoffe, zwischenmolekulare WW, Strahlung": ci/2/summary.md
       - "3 - Moleküle, Metalle, Salze": ci/3/summary.md
       - "4 - Salze, Reaktionsgeschwindigkeit, Gleichgewicht": ci/4/summary.md
+      - "5 - Säure-Base-Reaktionen": ci/5/summary.md
   - Economics & Law:
       - Welcome: wr/index.md
       - "1 - Introduction": wr/1/summary.md
@@ -103,3 +104,10 @@ nav:
   - Math:
       - Welcome: bma/index.md
       - "1 - Trigonometry and Logarithms": bma/1/summary.md
+  - English:
+      - Welcome: en/index.md
+      - "1 - vocab september 2025": en/vocab/1.md
+      - "2 - vocab november 2025": en/vocab/2.md
+  - French:
+      - Welcome: fr/index.md
+      - "1 - Subjonctif": fr/1/summary.md
