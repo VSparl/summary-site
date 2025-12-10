@@ -10,7 +10,7 @@ Danke an [@DanceMonkey276](https://github.com/DanceMonkey276) für diese Zusamme
 - Geschichte: "Rosalie geht sterben"
     - zu Beginn auktorial: kennt Hintergrundinformationen
     - wird teilweise zu personal: erzählt aus seiner interaktiven Rolle als Autor
-    - Taxifahrer taucht auf, Leo hat keine Kontrolle mehr -> neutral
+    - Taxifahrer taucht auf, Leo hat keine Kontrolle mehr &rightarrow; neutral
     - später wieder auktorial
     - am Ende wird auktoriale Macht verwendet, um den Verlauf der Geschichte zu ändern und selbst darin teilzunehmen
 ## Fiktionsvertrag
@@ -43,9 +43,10 @@ Danke an [@DanceMonkey276](https://github.com/DanceMonkey276) für diese Zusamme
     - Psychische Räume können Auswirkungen auf die echte Welt haben (z.B Waffe an den Kopf halten)
     - Existenz ohne Raum ist unmöglich, die Wichtigkeit des Raumes ist aber nicht immer gleich wichtig (z.B Ablenkung / stark fokussierte Tätigkeiten)
 ## Figurenrede
-- Mentale Räume stimmen oft nicht mit der Wirklichkeit überein (z.B Flow-state beim schreiben)
-- Psychische Räume können Auswirkungen auf die echte Welt haben (z.B Waffe an den Kopf halten)
-- Existenz ohne Raum ist unmöglich, die Wichtigkeit des Raumes ist aber nicht immer gleich wichtig (z.B Ablenkung / stark fokussierte Tätigkeiten)
+- direkte / indirekte Rede, oft wird beides verwendet
+- Innerer Monolog &rightarrow; Gespräch mit sich selbst
+- Erzählerrede &rightarrow; Erzähler beschreibt die Gedanken der Figur
+- Bewusstheitsstrom &rightarrow; ungefilterte Gedanken, welche nicht immer kohärent / sinnvoll sein müssen
 ## Motiv
 - Ruhm als zentrale Kraft, die
     - Beziehungen formt (Stimmen)
@@ -57,8 +58,8 @@ Danke an [@DanceMonkey276](https://github.com/DanceMonkey276) für diese Zusamme
 ## Zeit
 - 5 Varianten
     - chronologisch: Ereignisreihenfolge
-    - anachronie:
-    - achronie: keine Reihenfolge
+    - anachronie: nicht in der richtigen Reihenfolge erzählt (sie ist allerdings rekonstruierbar)
+    - achronie: nicht in der richtigen Reihenfolge erzählt (sie ist nicht rekonstruierbar)
     - Zeitsprung: überspringen von Zeitmomenten
     - Zeitpause: Handlung bleibt stehen, Platz für Beschreibungen
 - Zeitverhältnisse
