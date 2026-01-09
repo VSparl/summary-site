@@ -1,6 +1,6 @@
 site_name: Summaries 4G
 site_url: https://summaries-4g.netlify.app
-copyright: "Copyright &copy; 2025 Victor Spârleanu (<a href=\"/LICENSE/\" style=\"text-decoration: underline;\">license</a>)"  # Displayed in the footer
+copyright: "Copyright &copy; <span id=\"year\">2023<script>document.getElementById(\"year\").innerHTML = new Date().getFullYear();</script></span> Victor Spârleanu (<a href=\"/LICENSE/\" style=\"text-decoration: underline;\">license</a>)"  # Displayed in the footer
 
 # Include extra CSS stylesheet
 extra_css:
