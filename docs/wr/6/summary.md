@@ -217,4 +217,4 @@ Fiscal policy can be implemented in two ways:
     - rising market interest rate
 
 !!! warning "Policy rate vs market rate"
-    The **policy rate** is the interest rate set by the **Swiss National Bank** (SNB) to regulate how much it costs _other banks_ to borrow money from them. The **market interest rate is the rate at which businesses and people can borrow money from the "regular" banks. Policy rate influences market rate, but they aren't always equal.
+    The **policy rate** is the interest rate set by the **Swiss National Bank** (SNB) to regulate how much it costs _other banks_ to borrow money from them. The **market interest rate** is the rate at which businesses and people can borrow money from the "regular" banks. Policy rate influences market rate, but they aren't always equal.
