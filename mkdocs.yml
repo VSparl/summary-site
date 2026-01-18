@@ -106,6 +106,7 @@ nav:
       - Welcome: bma/index.md
       - "1 - Trigonometry and Logarithms": bma/1/summary.md
       - "2 - Differentiation and Polynomials": bma/2/summary.md
+      - "3 - Differentiation II": bma/3/summary.md
   - English:
       - Welcome: en/index.md
       - "1 - vocab september 2025": en/vocab/1.md

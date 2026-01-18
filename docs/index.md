@@ -1,6 +1,6 @@
 # Welcome to Summaries 4G
 
-This is the website where I host the summaries I write. The newest one is [economy](wr/6/summary.md).
+This is the website where I host the summaries I write. The newest one is [math](bma/3/summary.md).
 
 ## Navigation
 
