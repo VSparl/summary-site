@@ -1,4 +1,7 @@
 # Differentiation
+
+You also find the rules of differentiation in the Mathematics formulary on page 28.
+
 - - -
 ## Constant Rule
 
