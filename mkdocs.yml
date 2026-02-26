@@ -110,8 +110,9 @@ nav:
       - "3 - Differentiation II": bma/3/summary.md
   - English:
       - Welcome: en/index.md
-      - "1 - vocab september 2025": en/vocab/1.md
-      - "2 - vocab november 2025": en/vocab/2.md
+      - "1 - vocab September 2025": en/vocab/1.md
+      - "2 - vocab November 2025": en/vocab/2.md
+      - "3 - vocab Fabruary 2026": en/vocab/3.md
   - French:
       - Welcome: fr/index.md
       - "1 - Subjonctif": fr/1/summary.md
