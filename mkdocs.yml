@@ -1,6 +1,6 @@
 site_name: Summaries 4G
 site_url: https://summaries-4g.netlify.app
-copyright: "Copyright &copy; <span id=\"year\">2023<script>document.getElementById(\"year\").innerHTML = new Date().getFullYear();</script></span> Victor Spârleanu (<a href=\"/LICENSE/\" style=\"text-decoration: underline;\">license</a>)"  # Displayed in the footer
+copyright: "Copyright &copy; 2024 - <span id=\"year\">2023<script>document.getElementById(\"year\").innerHTML = new Date().getFullYear();</script></span> Victor Spârleanu (<a href=\"/LICENSE/\" style=\"text-decoration: underline;\">license</a>)"  # Displayed in the footer
 
 # Include extra CSS stylesheet
 extra_css:
@@ -81,6 +81,7 @@ nav:
       - "3 - Moleküle, Metalle, Salze": ci/3/summary.md
       - "4 - Salze, Reaktionsgeschwindigkeit, Gleichgewicht": ci/4/summary.md
       - "5 - Säure-Base-Reaktionen": ci/5/summary.md
+      - "6 - SB, Komplex-Reaktionen, Redox 1": ci/6/summary.md
   - Economics & Law:
       - Welcome: wr/index.md
       - "1 - Introduction": wr/1/summary.md

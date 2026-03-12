@@ -1,6 +1,6 @@
 # Welcome to Summaries 4G
 
-This is the website where I host the summaries I write. The newest one is [English vocabulary](en/vocab/3.md).
+This is the website where I host the summaries I write. The newest one is [Chemistry](ci/6/summary.md).
 
 ## Navigation
 
