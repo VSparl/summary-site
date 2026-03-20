@@ -48,7 +48,7 @@
 **Oberer Erdmantel**
 
 - oberste Schicht + Erdkruste = **Lithosphäre**
-- **Astenosphäre**: Gesteine schmelzen teilweise _(~1-5%)_ &rarr; zähplastische Fliesszone
+- **Asthenosphäre**: Gesteine schmelzen teilweise _(~1-5%)_ &rarr; zähplastische Fliesszone
 - **Dicke**: ca. 700 km
 - **Druck**: 300-500 kbar
 - **Temperatur**: 1200-1500 °C
@@ -104,7 +104,7 @@
 > Spektrum hat ein hilfreiches [Erklärvideo](https://www.youtube.com/watch?v=WTwou-Cf7u4) zum Thema gemacht
 
 ??? abstract "Karte der tektonischen Platten"
-    - Konvektionsströmungen in der Astenosphäre bewegen darauf liegende tektonische Platten
+    - Konvektionsströmungen in der Asthenosphäre bewegen darauf liegende tektonische Platten
     - Platten bewegen sich ca. 1-10 cm pro Jahr
     
     ![Tektonische Platten der Erde](./Tektonische_platten.png)
@@ -122,7 +122,7 @@
 - wenn Platten irgendwo divergieren, müssen sie auch irgendwo konvergieren
 - **Spreizungszonen**:
     - Magma steigt aus Erdmantel auf &rarr; Bildung neuer Erdkruste
-    - Entstehung von Mittelozeanischen Rücken, Riftzonen[^4], Vulkanen oder Flachbeben[^5]
+    - Entstehung von Mittelozeanischen Rücken, Riftzonen[^2], Vulkanen oder Flachbeben[^3]
 - **Subduktionszonen**:
     - dichtere ozeanische Platte taucht unter kontinentale Platte ab
     - Gestein schmilzt teilweise auf &rarr; Bildung von Magma
@@ -137,8 +137,8 @@
     - Platten Verhaken sich und lösen sich plötzlich wieder
     - Ursache für Erdbeben oder Risse bzw. [Verwerfungen](https://de.wikipedia.org/wiki/Verwerfung_(Geologie)) in der Erdoberfläche
 
-[^4]: Gräben, die an divergierenden Plattengrenzen _(= Spreizungszonen)_ entstehen
-[^5]: Erdbeben, deren Herd weniger als **70 km** unter der Erdoberfläche liegt
+[^2]: Gräben, die an divergierenden Plattengrenzen _(= Spreizungszonen)_ entstehen
+[^3]: Erdbeben, deren Herd weniger als **70 km** unter der Erdoberfläche liegt
 
 ### Seafloor Spreading
 
@@ -196,9 +196,9 @@ Dabei liegt Kohle in unterschiedlichen Formen vor, die im Verlauf des Prozesses 
 - **Bruchfläche**: Fläche, entlang welcher sich die auslösenden Erdplatten verschieben
 - Intensitätsmessungen anhand von zwei Skalen:
     - **Richter-Skala**: objektiv, basierend auf Messwerten, logarithmisch
-    - **EMS-98-Skala**[^5]: 12 Stufen, subjektiv, basierend auf sichtbaren / spürbaren Effekten
+    - **EMS-98-Skala**[^4]: 12 Stufen, subjektiv, basierend auf sichtbaren / spürbaren Effekten
 
-[^5]: **E**uropean **M**acroseismic **S**cale
+[^4]: **E**uropean **M**acroseismic **S**cale
 
 ### Entstehung
 
