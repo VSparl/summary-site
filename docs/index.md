@@ -1,6 +1,6 @@
 # Welcome to Summaries 4G
 
-This is the website where I host the summaries I write. The newest one is [Geography](gg/5/summary.md).
+This is the website where I host the summaries I write. The newest one is [Biology](bi/4/summary.md).
 
 ## Navigation
 
