@@ -34,7 +34,7 @@ The first theory proposed by **Charles Darwin** in 1859 in his book _On the Orig
 ### Evidence for Evolution
 
 - **fossils**: analysis of fossilised organisms and comparison to today's species
-- **biogeography**: animals diversified in geographical isolation &rarr; comparison to [continental drift](../../gg/5/summary#plattentektonik)
+- **biogeography**: animals diversified in geographical isolation &rarr; comparison to [continental drift](../../gg/5/summary.md#plattentektonik)
 - **comparative anatomy**: similarity in characteristics _(e.g. bone structure)_ stems from common ancestor &rarr; **homologous structures**[^1]
 - **vestigial organs**: leftover organs that have now become useless and start to vanish over time
 - **comparative embryology**: comparison of early development accross species
