@@ -63,7 +63,7 @@ theme:
     - navigation.path # Show path breadcrumbs at top of file
 
 plugins:
-- search
+  - search
 
 # Website navigation structure
 nav:
