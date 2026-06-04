@@ -108,6 +108,7 @@ nav:
       - Welcome: gs/index.md
       - "1 - USA": gs/1/summary.md
       - "2 - World War I": gs/2/summary.md
+      - "3 - Russian Revolution": gs/3/summary.md
   - Math:
       - Welcome: bma/index.md
       - "1 - Trigonometry and Logarithms": bma/1/summary.md
