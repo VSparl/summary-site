@@ -38,12 +38,17 @@
 [^1]: payments for the land they received
 
 ## Political Parties and Factions
+- **Narodniks**: saw peasantry as revolutionary class; revolution would lead directly to socialism
 - **Monarchists**: supported the Tsar and opposed land expropriation[^2]
 - **Octobrists**: moderate liberals supporting the 1905 constitutional changes
 - **Cadets**: radical liberals seeking a modern constitutional state
+- **Trudoviks**: wanted land for the peasantry and economic support from small businesses
 - **Social Revolutionaries (SR)**: populist[^3] party focused on the peasantry
 - **Bolsheviks**: led by Lenin; wanted a classless society
 - **Mensheviks**: moderate wing believing socialism required a prior period of capitalist development
+
+!!! warning "Spelling of certain parties"
+    Some of our materials in class write _"Bolsheviks"_ and similar words with a _w_ instead of a _v_ (&rarr; _"Bolshewiks"_). This is incorrect, the correct English spelling is with a _v_. It is likely a mistake that arose in the translation from the German word _"Bolschewiki"_. The same goes for the _Trudoviks_ and _Mensheviks_.
 
 [^2]: redistributing land among the people
 [^3]: advocating for power to the people
