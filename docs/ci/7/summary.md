@@ -13,7 +13,7 @@
 - Quantifizierung durch **Reduktionspotential** $E$ (in Volt)
 - grosses $E$ &rarr; edles Metall
 - unter Normbedingungen[^1] **Normalpotential** ($E^0$) genannt
-- **Redox-Potential** $\Delta E^0 = E^0(\text{RM}) - E^0(\text{OM})$
+- **Redox-Potential** $\Delta E^0 = E^0(\text{OM}) - E^0(\text{RM})$
 - freiwillige (rechtsliegende) Reaktionen (z.B. Korrosion) haben immer $\Delta E^0 > 0V$
 
 [^1]: Normbedingungen: $T = 25\ \text{°C}\ ;\ p = 101'325\ \text{Pa}$
