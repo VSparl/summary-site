@@ -83,7 +83,8 @@ nav:
       - "3 - Moleküle, Metalle, Salze": ci/3/summary.md
       - "4 - Salze, Reaktionsgeschwindigkeit, Gleichgewicht": ci/4/summary.md
       - "5 - Säure-Base-Reaktionen": ci/5/summary.md
-      - "6 - SB, Komplex-Reaktionen, Redox 1": ci/6/summary.md
+      - "6 - SB, Komplex-Reaktionen, Redox I": ci/6/summary.md
+      - "7 - Redox II": ci/7/summary.md
   - Economics & Law:
       - Welcome: wr/index.md
       - "1 - Introduction": wr/1/summary.md

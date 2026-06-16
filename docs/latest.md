@@ -4,7 +4,7 @@
     <title>Redirecting...</title>
 </head>
 <body>
-    <center>If you are not redirected, <a href="../bi/5/summary" id="latest-link">click here</a>.</center>
+    <center>If you are not redirected, <a href="../ci/7/summary" id="latest-link">click here</a>.</center>
     <script>
         window.location.replace(document.getElementById("latest-link").href);
     </script>
