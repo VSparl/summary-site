@@ -1,5 +1,7 @@
 # Behaviour
 
+Thanks to Jonas for making this summary!
+
 ## Proximate and ultimate questions (35.1)
 
 - **behaviour**: everything an animal does and how it does it
