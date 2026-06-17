@@ -50,17 +50,17 @@
 !!! experiment "Ablaufende Reaktionen"
     Die **Anode** (in unserem Experiment der Stift) wird **oxidiert**: $Al - 3e^- \to Al^{3+}$
 
-    An der **Kathode** wird **reduziert**: $2H_3O^+ - 2e^- \to H_2\ (g \uparrow) + H_2O\ (l)$
+    An der **Kathode** wird **reduziert**: $2H_3O^+ - 2e^- \to H_2\ (g \uparrow) + 2H_2O\ (l)$
 
 ### Galvanisieren
-> Elektrochemische Oberflächenbehandlung durch auftragen dünner Metallschichten; Hier am Beispiel des Versilberns aufgezeigt
+> Elektrochemische Oberflächenbehandlung durch Auftragen dünner Metallschichten; Hier am Beispiel des Versilberns aufgezeigt
 
 Ausgangszustand:
 
 - Anode (+): reines Silber ($Ag$)
 - Kathode (-): zu beschichtendes Objekt aus unedlerem Metall
 - Elektrolyt, welches bereits Silber-Ionen enthält (z.B. $AgNO_3$)
-- Gleichspannungsquelle vorhanden ($U > | \Delta E^0$)
+- Gleichspannungsquelle vorhanden ($U > | \Delta E^0 |$)
 
 Vorgang:
 
@@ -80,7 +80,7 @@ Vorgang:
 
 - RM und OM werden getrennt &rarr; Reaktion läuft nur dann ab, wenn Elektronen von RM zu OM fliessen können
 - Elektronenfluss wird durch Anschluss eines Verbrauchers _(z.B. Glühbirne)_ ermöglicht
-- Anode wird oxidiert &rarr; gibt ionen in den elektrolyt ab
+- Anode wird oxidiert &rarr; gibt Ionen in den Elektrolyt ab
 - Kathode wird reduziert &rarr; Metall lagert sich an
 - $U = \Delta E^0$
 
@@ -100,7 +100,7 @@ Vorgang:
 
     $\Delta E^0 = E^0(Cu^{2+}) - E^0(Zn^{2+}) = 0.35\ V - (-0.76\ V) = 1.11\ V$
 
-### Lechlanché-Element
+### Leclanché-Element
 
 > Auch _Kohle/Zink-Batterie_ oder _Trockenelement_ genannt
 
