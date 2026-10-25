@@ -125,3 +125,7 @@ nav:
   - French:
       - Welcome: fr/index.md
       - "1 - Subjonctif": fr/1/summary.md
+
+  - Kunst & Kultur:
+      - Welcome: kk/index.md
+      - "1 - Architektur": kk/1/summary.md
