@@ -76,6 +76,7 @@ nav:
       - "3 - Meiosis & Genetics": bi/3/summary.md
       - "4 - Evolution": bi/4/summary.md
       - "5 - Behaviour": bi/5/summary.md
+
   - Chemistry:
       - Welcome: ci/index.md
       - "1 - Ladungswolken und Moleküle": ci/1/summary.md
@@ -85,6 +86,7 @@ nav:
       - "5 - Säure-Base-Reaktionen": ci/5/summary.md
       - "6 - SB, Komplex-Reaktionen, Redox I": ci/6/summary.md
       - "7 - Redox II": ci/7/summary.md
+
   - Economics & Law:
       - Welcome: wr/index.md
       - "1 - Introduction": wr/1/summary.md
@@ -94,6 +96,7 @@ nav:
       - "5 - Marketing": wr/5/summary.md
       - "6 - Economics II": wr/6/summary.md
       - "7 - Loans and Investing": wr/7/summary.md
+
   - Geography:
       - Welcome: gg/index.md
       - "1 - Amerika": gg/1/summary.md
@@ -101,28 +104,33 @@ nav:
       - "3 - Demographie": gg/3/summary.md
       - "4 - Demographie 2": gg/4/summary.md
       - "5 - Geologie, Plattentektonik, Erdbeben": gg/5/summary.md
+
   - German:
       - Welcome: de/index.md
       - "1 - Sprachwandel": de/1/summary.md
       - "2 - Aufklärung": de/2/summary.md
       - "3 - Ruhm (Daniel Kehlmann)": de/3/summary.md
       - "4 - Woyzeck (Georg Büchner)": de/4/summary.md
+      
   - History:
       - Welcome: gs/index.md
       - "1 - USA": gs/1/summary.md
       - "2 - World War I": gs/2/summary.md
       - "3 - Russian Revolution": gs/3/summary.md
+      
   - Math:
       - Welcome: bma/index.md
       - "1 - Trigonometry and Logarithms": bma/1/summary.md
       - "2 - Differentiation and Polynomials": bma/2/summary.md
       - "3 - Differentiation II": bma/3/summary.md
+
   - English:
       - Welcome: en/index.md
       - "1 - vocab September 2025": en/vocab/1.md
       - "2 - vocab November 2025": en/vocab/2.md
       - "3 - vocab February 2026": en/vocab/3.md
       - "4 - vocab June 2026": en/vocab/4.md
+
   - French:
       - Welcome: fr/index.md
       - "1 - Subjonctif": fr/1/summary.md
@@ -130,3 +138,7 @@ nav:
   - Kunst & Kultur:
       - Welcome: kk/index.md
       - "1 - Architektur": kk/1/summary.md
+
+  - EF Informatik:
+      - Welcome: in/index.md
+      - "1 - Netzwerke & Pen-Testing I": in/1/summary.md
